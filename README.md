@@ -182,12 +182,13 @@ temple.html
 ```
 
 ## OUTPUT
-![alt text](<priyadaarshini/fireapp/static/Screenshot 2025-11-28 112654.png>)
-![alt text](park.png)
-![alt text](museum.png)
-![alt text](mandapam.png)
-![alt text](residency.png)
-![alt text](temple.png)
+
+![alt text](map.png)
+![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
+![alt text](4.png)
+![alt text](5.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
